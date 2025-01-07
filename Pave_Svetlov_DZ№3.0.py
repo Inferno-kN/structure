@@ -1,6 +1,4 @@
 #Задача 1
-from numpy.matrixlib.defmatrix import matrix
-
 struck Animal:
     name: str,
     vid: str,
