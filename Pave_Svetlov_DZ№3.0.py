@@ -1,5 +1,5 @@
 #Задача 1
-struck Animal:
+struct Animal:
     name: str,
     vid: str,
     age: int,
@@ -20,7 +20,7 @@ struct Data:
     month: int,
     year: int
 
-struct members_of_the_society:
+struct Members_of_the_society:
     role: str,
     clothes: str,
     stage: int,
